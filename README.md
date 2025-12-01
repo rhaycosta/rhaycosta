@@ -7,7 +7,7 @@
 
 <br>
 
-<img align="right" src="avatar.jpg" height="360em" alt="Avatar Rhay" />
+<img align="right" src="avatar.jpg" height="300em" alt="Avatar Rhay" />
 
 <h3>📊 Minhas Estatísticas</h3>
 
