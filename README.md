@@ -13,9 +13,9 @@
       <h3 align="left">📊 Minhas Estatísticas</h3>
       <div align="left">
         <a href="https://github.com/rhaycosta">
-          <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rhaycosta&show_icons=true&theme=dracula&hide_border=true"/>
-          <br>
-          <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhaycosta&layout=compact&theme=dracula&hide_border=true"/>
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=rhaycosta&theme=dracula&hide_border=true" alt="GitHub Streak" />
+          <br><br>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhaycosta&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" />
         </a>
       </div>
     </td>
