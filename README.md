@@ -7,15 +7,15 @@
 
 <br>
 
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<table border="0" width="100%">
   <tr>
     <td width="55%" valign="middle">
       <h3 align="left">📊 Minhas Estatísticas</h3>
       <div align="left">
         <a href="https://github.com/rhaycosta">
-          <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rhaycosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-          <br>
-          <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhaycosta&layout=compact&theme=dracula&hide_border=true"/>
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=rhaycosta&theme=dracula&hide_border=true" alt="GitHub Streak" />
+          <br><br>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhaycosta&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" />
         </a>
       </div>
     </td>
