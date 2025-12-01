@@ -1,13 +1,9 @@
-te<h1 align="center">Olá, eu sou a Rhay! 👋</h1>
+<h1 align="center">Olá, eu sou a Rhay! 👋</h1>
 
 <p align="center">
   Estudante de Engenharia da Computação apaixonada por transformar dados em soluções visuais.  
   Atualmente focada em <b>Power BI</b>, <b>SAP</b>, <b>Pyhton</b>, <b>Back-End</b>, <b>Análise de Dados</b> e <b>Logística</b>.
 </p>
-
-<br>
-
-<img align="right" src="avatar.jpg" height="300em" alt="Avatar Rhay" />
 
 <h3>📊 Minhas Estatísticas</h3>
 
