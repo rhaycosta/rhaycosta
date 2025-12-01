@@ -5,6 +5,7 @@
   Atualmente focada em <b>Power BI</b>, <b>SAP</b>, <b>Pyhton</b>, <b>Back-End</b>, <b>Análise de Dados</b> e <b>Logística</b>.
 </p>
 
+<div align="center">
 <h3>📊 Minhas Estatísticas</h3>
 
 <div align="center">
