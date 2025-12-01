@@ -1,13 +1,16 @@
-# Olá, eu sou Rhay! 👋
+<h1 align="center">Olá, eu sou Rhay! 👋</h1>
 
-Sou estudante de Engenharia da Computação e apaixonada por transformar dados em soluções visuais. Atualmente focada em **Power BI**, **SAP**, **Back-End**, **Análise de Dados** e **Logística**.
+<p align="center">
+  Sou estudante de Engenharia da Computação e apaixonada por transformar dados em soluções visuais. 
+  Atualmente focada em <b>Power BI</b>, <b>SAP</b>, <b>Back-End</b>, <b>Análise de Dados</b> e <b>Logística</b>.
+</p>
 
----
+<br>
 
 <table border="0" width="100%">
   <tr>
-    <td width="60%">
-      <h3>📊 Minhas Estatísticas</h3>
+    <td width="55%" valign="middle">
+      <h3 align="left">📊 Minhas Estatísticas</h3>
       <div align="left">
         <a href="https://github.com/rhaycosta">
           <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rhaycosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -16,16 +19,16 @@ Sou estudante de Engenharia da Computação e apaixonada por transformar dados e
         </a>
       </div>
     </td>
-
-    <td width="40%" align="center">
-      <img src="avatar.jpg" width="300px">
+    <td width="45%" align="center" valign="middle">
+      <img src="avatar.jpg" width="100%" alt="Avatar Rhay">
     </td>
   </tr>
 </table>
----
 
-### 🛠 Tech Stack & Ferramentas
+<br>
+
 <div align="center">
+  <h3>🛠 Tech Stack & Ferramentas</h3>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -33,10 +36,10 @@ Sou estudante de Engenharia da Computação e apaixonada por transformar dados e
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
----
+<br>
 
-### 📫 Onde me encontrar
 <div align="center">
+  <h3>📫 Onde me encontrar</h3>
   <a href="mailto:rhayssaemanuele.12@hotmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
