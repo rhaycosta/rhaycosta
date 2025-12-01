@@ -13,7 +13,7 @@
       <h3 align="left">📊 Minhas Estatísticas</h3>
       <div align="left">
         <a href="https://github.com/rhaycosta">
-          <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rhaycosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+          <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rhaycosta&show_icons=true&theme=dracula&hide_border=true"/>
           <br>
           <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhaycosta&layout=compact&theme=dracula&hide_border=true"/>
         </a>
@@ -41,7 +41,7 @@
 <div align="center">
   <h3>📫 Onde me encontrar</h3>
   <a href="mailto:rhayssaemanuele.12@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="(https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook") />
   </a>
   <a href="https://www.linkedin.com/in/rhayssaepcosta/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
