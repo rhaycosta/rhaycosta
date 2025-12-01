@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou a Rhay! 👋</h1>
+te<h1 align="center">Olá, eu sou a Rhay! 👋</h1>
 
 <p align="center">
   Estudante de Engenharia da Computação apaixonada por transformar dados em soluções visuais.  
@@ -7,11 +7,11 @@
 
 <br>
 
-<img align="right" src="avatar.jpg" height="280em" alt="Avatar Rhay" />
+<img align="right" src="avatar.jpg" height="300em" alt="Avatar Rhay" />
 
 <h3>📊 Minhas Estatísticas</h3>
 
-<div align="left">
+<div align="center">
   <img height="220em" src="https://github-readme-streak-stats.herokuapp.com/?user=rhaycosta&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
 
