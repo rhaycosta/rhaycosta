@@ -18,7 +18,7 @@ Sou estudante de Engenharia da Computação e apaixonada por transformar dados e
     </td>
 
     <td width="40%" align="center">
-      <img src="image_864575.jpg" width="300px">
+      <img src="avatar.jpg" width="300px">
     </td>
   </tr>
 </table>
