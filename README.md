@@ -2,7 +2,7 @@
 
 <p align="center">
   Estudante de Engenharia da Computação apaixonada por transformar dados em soluções visuais.  
-  Atualmente focada em <b>Power BI</b>, <b>SAP</b>, <b>Pyhton</b>, <b>Back-End</b>, <b>Análise de Dados</b> e <b>Logística</b>.
+  Atualmente focada em <b>Power BI</b>, <b>SAP</b>, <b>Python</b>, <b>Power Automate</b>, <b>Back-End</b>, <b>Análise de Dados</b> e <b>Logística</b>.
 </p>
 
 <div align="center">
@@ -17,7 +17,9 @@
 
 <div align="center">
   <h3>🛠 Tech Stack & Ferramentas</h3>
+  
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
