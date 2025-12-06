@@ -9,7 +9,7 @@
 <h3>📊 Minhas Estatísticas</h3>
 
 <div align="center">
-  <img height="220em" src="https://github-readme-streak-stats.herokuapp.com/?user=rhaycosta&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img height="210em" src="https://github-readme-streak-stats.herokuapp.com/?user=rhaycosta&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br clear="all">
