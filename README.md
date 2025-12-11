@@ -1,92 +1,75 @@
+<h1 align="center">🦕 Olá, eu sou a Rhay Costa! 👋</h1>
 
-<h1 align="center">Olá, eu sou a Rhay! 👋</h1>
-
----
-
-
-## 🌿 Sobre mim
-Sou estudante de Engenharia da Computação apaixonada por transformar dados em soluções visuais e automatizadas.  
-Atualmente focada em **Power BI**, **Python**, **Power Automate**, **Back-End**, **Análise de Dados** e **Logística**.
-
-**Missão:** Criar soluções que facilitem processos e tomem decisões mais rápidas com dados.
+<p align="center">
+  Estudante de Engenharia da Computação apaixonada por dados, tecnologia e automação.  
+  Tenho interesse em  <b>Power BI</b>, <b>Python</b>, <b>SAP</b>, <b>Power Automate</b>,  
+  <b>Back-End</b> e <b>Análise de Dados</b>.  
+</p>
 
 ---
-
-## 🧾 GitHub Metrics
-> As métricas abaixo são geradas automaticamente via GitHub Action.
 
 <div align="center">
-  <!-- Contributions 3D / calendar-style (gerado pelo action) -->
-  <img src="https://metrics.lecoq.io/rhaycosta?template=classic&show_icons=true&border_color=00000000" alt="GitHub Metrics" />
-
-  <!-- Streak / general stats -->
-  <img src="https://streak-stats.demolab.com?user=rhaycosta&theme=dark&hide_border=true" height="150" alt="Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=rhaycosta&show_icons=true&theme=dark&hide_border=true" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhaycosta&layout=compact&theme=dark&hide_border=true" height="150" alt="Top Languages" />
+  <img height="180" src="https://media.tenor.com/j2dYjB-jqKcAAAAi/dino-dinosaur.gif" />
 </div>
 
 ---
 
-## 🛠 Tech Stack & Ferramentas
+## 🧩 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+
+<!-- STREAK -->
+<img height="190em" src="https://streak-stats.demolab.com/?user=rhaycosta&theme=tokyonight-duo&hide_border=true" />
+
+<br/>
+
+<!-- STATS -->
+<img height="190em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rhaycosta&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<!-- TOP LANGS -->
+<img height="190em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rhaycosta&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
 
 ---
 
-## 📈 Presente Status
-- 📘 Estudando: Python Avançado, APIs e ETL  
-- ⚙️ Trabalhando: Dashboards e automações para logística  
-- 🚀 Buscando: projetos open-source e integração contínua
-
----
-
-## 🧠 Skills
-<details>
-<summary><b>Hard Skills</b></summary>
-
-- Power BI, DAX, Power Query  
-- Python, Pandas, Flask (básico)  
-- SQL (modelagem e queries)  
-- Power Automate (fluxos e integrações)  
-- Git & GitHub  
-</details>
-
-<details>
-<summary><b>Soft Skills</b></summary>
-
-- Comunicação, organização, curiosidade, aprendizado rápido  
-</details>
-
----
-
-## 🚀 Projetos 
-<details>
-<summary><b>Projetos públicos</b></summary>
-
-- Dashboard Logística (Power BI)  
-- Automação de relatórios (Power Automate)  
-- Scripts de ETL em Python  
-</details>
-
----
-
-## 📫 Onde me encontrar
+## 🦕✨ Dino Programadora  
 <div align="center">
-  <a href="mailto:rhayssaemanuele.12@hotmail.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
-  </a>
-  <a href="https://www.linkedin.com/in/rhayssaepcosta/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <img height="200" src="https://media.tenor.com/zG8YV5J1R0YAAAAi/dino-computer.gif" />
 </div>
 
 ---
 
-<p align="center">⭐ Obrigada por visitar meu perfil!</p>
+## 🛠 Tech Stack  
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+</div>
+
+---
+
+## 📫 Contato  
+
+<div align="center">
+<a href="mailto:rhayssaemanuele.12@hotmail.com">
+  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/rhayssaepcosta/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</div>
+
+---
+
+<div align="center">
+  <h3>🦕 Obrigada por visitar meu perfil! ✨</h3>
+  <img height="120" src="https://media.tenor.com/qGx0Xk-oL9EAAAAi/dino.gif" />
+</div>
