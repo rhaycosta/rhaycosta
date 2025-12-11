@@ -1,39 +1,138 @@
-<h1 align="center">Olá, eu sou a Rhay! 👋</h1>
+
+<h1 align="center">✨ Olá, eu sou a Rhay! ✨</h1>
 
 <p align="center">
-  Estudante de Engenharia da Computação apaixonada por transformar dados em soluções visuais.  
-  Atualmente focada em <b>Power BI</b>, <b>SAP</b>, <b>Python</b>, <b>Power Automate</b>, <b>Back-End</b>, <b>Análise de Dados</b> e <b>Logística</b>.
+  <i>On a journey to become a great human being…</i>
 </p>
 
-<div align="center">
-<h3>📊 Minhas Estatísticas</h3>
+---
+
+## 🌿 Namastê / Sobre mim  
+
+Olá! Meu nome é **Rhay**, uma desenvolvedora apaixonada por transformar dados em soluções inteligentes e visuais.  
+Sou estudante de Engenharia da Computação e atualmente trabalho com análise de dados, automações e desenvolvimento.
+
+✨ **Minha missão:** criar soluções que realmente ajudem pessoas e empresas no dia a dia.  
+💡 **Meus valores:** curiosidade, aprendizado constante e automação que facilita vidas.  
+
+### ❤️ O que amo fazer:
+- 📊 Business Intelligence & Power BI  
+- 🤖 Automação com Power Automate  
+- 🧠 Python & Back-End  
+- 📦 Logística e Otimização de Processos  
+- 📈 Análise de Dados & SQL  
+
+---
+
+## 🌱 Presente Status
+
+- 📘 Estudando: **Python Avançado**, **API REST**, **ETL**, **Power BI Avançado**  
+- ⚙️ Trabalhando em: **Projetos de Automação e BI**  
+- 🌍 Aprendendo mais sobre: Ciência de Dados e Processos Logísticos  
+- 🧩 Criando soluções e contribuindo com projetos práticos
+
+---
+
+## 🧠 GitHub Stats
 
 <div align="center">
-  <img height="210em" src="https://github-readme-streak-stats.herokuapp.com/?user=rhaycosta&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img height="170" src="https://streak-stats.demolab.com?user=rhaycosta&theme=dracula&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rhaycosta&show_icons=true&theme=dracula&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhaycosta&layout=compact&theme=dracula&hide_border=true" />
 </div>
 
-<br clear="all">
+---
+
+## 🛠 Skills (Clique para expandir)
+
+<details>
+<summary><b>🔧 Hard Skills</b></summary>
 <br>
 
-<div align="center">
-  <h3>🛠 Tech Stack & Ferramentas</h3>
-  
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</div>
+**Data & BI**
+- Power BI  
+- Excel Avançado  
+- SQL  
 
+**Programação**
+- Python  
+- APIs & Automação  
+- Git  
+
+**Ferramentas**
+- Power Automate  
+- SAP Básico  
+- VS Code  
+</details>
+
+<details>
+<summary><b>🌿 Soft Skills</b></summary>
 <br>
 
+- Organização  
+- Proatividade  
+- Curiosidade  
+- Comunicação  
+- Aprendizado rápido  
+</details>
+
+---
+
+## 🚀 Projetos (Clique para expandir)
+
+<details>
+<summary><b>📊 Power BI</b></summary>
+<br>
+
+- Dashboard de Logística  
+- Dashboard Financeiro  
+- Dashboard de RH  
+</details>
+
+<details>
+<summary><b>🤖 Automação & Power Automate</b></summary>
+<br>
+
+- Fluxo de envio automático de relatórios  
+- Integração entre sistemas  
+</details>
+
+<details>
+<summary><b>💻 Python</b></summary>
+<br>
+
+- ETL com Pandas  
+- API simples com Flask  
+</details>
+
+---
+
+## 🏆 Conquistas & Destaques (expansível)
+
+<details>
+<summary><b>✨ Ver conquistas</b></summary>
+<br>
+
+- Certificação Power BI  
+- Projetos entregues na área logística  
+- Automação para otimização de processos  
+</details>
+
+---
+
+## 📫 Onde me encontrar
+
 <div align="center">
-  <h3>📫 Onde me encontrar</h3>
-  <a href="mailto:rhayssaemanuele.12@hotmail.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
-  </a>
-  <a href="https://www.linkedin.com/in/rhayssaepcosta/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+
+<a href="mailto:rhayssaemanuele.12@hotmail.com">
+  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/rhayssaepcosta/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
 </div>
+
+---
+
+<h3 align="center">⭐ Obrigada por visitar meu perfil! ⭐</h3>
