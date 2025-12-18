@@ -1,7 +1,7 @@
 <div align="center">
   <img height="130" src="https://media.tenor.com/j2dYjB-jqKcAAAAi/dino-dinosaur.gif" />
   <h1>Olá, eu sou Rhay 🦕</h1>
-  <h3>Engenharia da Computação | 1º Ano 🌱</h3>
+  <h3>Engenharia da Computação | 1º Ano </h3>
   <p>
     Explorando dados, automação e lógica.<br>
   </p>
