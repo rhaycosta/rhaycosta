@@ -60,20 +60,21 @@ Atualmente, gerencio diversos projetos focados em resolver problemas reais atrav
 
 
 ---
+###  📊 Estatísticas
 
 <div align="center">
 
-  <h3> 📊 Estatísticas </h3>
-
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rhaycosta&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub de Rhay Costa" width="400"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhaycosta&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" width="300"/>
+    <img align="center" src="https://github-readme-stats.shion.dev/api?username=rhaycosta&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub de Rhay Costa" />
+    <img align="center" src="https://github-readme-stats.shion.dev/api/top-langs/?username=rhaycosta&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
   </p>
 
 </div>
 <br>
 
 <div align="center">
+
+
 
   <a href="https://www.linkedin.com/in/rhayssaepcosta/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
